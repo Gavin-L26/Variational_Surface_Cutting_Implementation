@@ -1,4 +1,4 @@
-# Variational Suface Cutting Implementation
+# Variational Surface Cutting Implementation
 A numpy with igl library implementation of the *Variational Surface Cutting* (SIGGRAPH 2018 / ACM Transactions on Graphics 2018 paper) by Nicholas Sharp and Keenan Crane
 
 Link to the paper can be found here:
